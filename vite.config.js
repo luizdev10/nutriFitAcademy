@@ -18,6 +18,6 @@ function metaDoConfig() {
 }
 
 export default defineConfig({
-  base: '/nutriFitAcdemy/',
+  base: '/nutriFitAcademy/',
   plugins: [react(), tailwindcss(), metaDoConfig()],
 })
